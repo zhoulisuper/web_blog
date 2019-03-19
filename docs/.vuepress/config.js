@@ -1,6 +1,6 @@
 module.exports = {
   theme: "reco",
-  title: "yush的博客",
+  title: "zhouli的博客",
   description: "网站描述",
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
